@@ -1,6 +1,11 @@
 package es.maestredam;
 
 import java.io.File;
+
+/**
+ * @author Jesús Alejandro Velasco torres
+ * @version 1.1
+ */
 public class FUtil {
     /**
      *  Método que comprueba si existe un archivo con el nombre pasado
