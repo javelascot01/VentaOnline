@@ -3,7 +3,7 @@ package es.maestredam;
 import java.io.File;
 
 /**
- * @author Jesús Alejandro Velasco torres
+ * @author Jesús Alejandro Velasco Torres
  * @version 1.1
  */
 public class FUtil {
